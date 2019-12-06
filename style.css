@@ -1,0 +1,215 @@
+.ideas{
+    margin-top: 3rem;
+    margin-left: 2rem;
+    color: rgb(18, 18, 63);
+    text-align: center;
+    background-image: url('./images3/bg.PNG');
+}
+.car{
+    color: blue;
+    border: none;
+    background-color: white;
+}
+.car-2{
+    border-radius: 55px !important;
+    background-color:white;
+    color:rgb(230, 9, 46);
+    
+}
+.butt{
+    margin-left: 38rem;
+    border-radius: 2rem;
+    color: white;
+    background-color:orange;
+    border: none;
+    padding: 5px 5px;
+}
+.lady{
+    margin-left: 6rem;
+}
+span{
+    margin-left: 28rem;
+    color: orange;
+}
+.build{
+    margin-left: 26rem;
+    color: blue;
+    font-size: 2rem;
+}
+.container-2{
+    color: blue;
+}
+.design{
+    padding: 10px 30px 10px 30px;
+    border-radius: 35px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 0 0 5px 0 rgb(192, 179, 179);
+}
+.search{
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px 30px 10px 30px;
+    box-shadow: 0 0 5px 0 rgb(192, 179, 179);
+    text-align: center;
+    margin-left: 2rem; 
+}
+.branding{
+    padding: 10px 30px 10px 30px;
+    background-color: white;
+    border-radius: 35px;
+    box-shadow: 0 0 5px 0 rgb(192, 179, 179);
+    text-align: center;
+    margin-left: 2rem; 
+}
+.mobile{
+    border-radius: 15px;
+    background-color:rgb(255, 255, 255);
+    padding: 10px 30px 10px 30px;
+    box-shadow: 0 0 5px 0 rgb(192, 179, 179);
+    text-align: center; 
+    margin-left: 2rem; 
+}
+
+.digital{
+    height: 55vh;
+    padding-top: 8rem;
+    padding-left: 6rem;
+}
+.guys{
+    
+}
+.agency{
+    color: blue;
+    padding-left: 4rem;
+}
+button{
+    color:white;
+    padding: 5px 5px;
+    background-color: orange;
+    border-radius: 2rem;
+    border: none;
+}
+.us{
+    color:orange;
+}
+.cont4{
+    /* background-color: rgb(192, 179, 179); */
+    padding-top: 6rem;
+    padding-left: 8rem;
+    color: blue;
+     font-size: 20px;
+}
+.girls{
+    border-radius: 5rem;
+}
+.us-2{
+    color: orange;
+}
+.fa{
+    display: flex;
+    padding-right: 35px; 
+    text-align: left;
+}
+.test{
+    text-align: center;
+    padding-top: 6rem;
+    color: rgb(25, 25, 117);
+
+}
+.this{
+    padding-top: 6rem;
+
+}
+.fine{
+    border-radius: 20rem;
+    border: 3px solid rgb(80, 15, 134);
+}
+.quot{
+    margin-left: 29rem;
+}
+.arrow{
+    margin-left: 24rem;
+    
+}
+.angell{
+    color: crimson;
+}
+.customer{
+    background-color:rgb(11, 52, 175);
+    padding-top: 5rem;
+    padding-left: 13rem;
+    margin-top: 5rem;
+    height: 50vh;
+    /* text-align: center; */
+    
+}
+.our{
+    color: white;
+    padding-bottom: 4rem;
+    text-align: center;
+}
+.blog{
+    padding-top: 5rem;
+
+}
+.may-1{
+    box-shadow: 0 0 5px 0 rgb(192, 179, 179);
+    text-align: center;
+    border-radius: 15px;
+}
+.may-2{
+    box-shadow: 0 0 5px 0 rgb(192, 179, 179);
+    text-align: center;
+    border-radius: 15px;
+}
+.may-3{
+    box-shadow: 0 0 5px 0 rgb(192, 179, 179);
+    text-align: center;
+    border-radius: 15px;
+}
+.post{
+    text-align: center;
+}
+.check{
+    text-align: center;
+}
+.letter{
+    padding-top: 5rem;
+    text-align: center;
+}
+.ups{
+    color: rgb(249, 249, 250);
+    background-color: orange;
+    margin-left: -5rem;
+     
+    
+}
+.update{
+    font-size: 27px;
+    color: rgb(21, 21, 97)
+}
+input{
+    color: aqua;
+    border-radius: 5rem;
+    color: rgb(14, 14, 201); 
+    padding: 5px 17px;
+}
+.last{
+    padding-top: 6rem;
+}
+.copy{
+    background-color:royalblue;
+    padding-top: 4rem;
+    color: white;
+    text-align: center;
+    margin-top: 4rem;
+}
+
+
+
+
+
+
+
+
